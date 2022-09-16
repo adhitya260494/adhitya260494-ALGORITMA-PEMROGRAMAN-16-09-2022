@@ -1,0 +1,23 @@
+Contoh tahun kabisat
+1999 = bukan kabisat
+2000 = kabisat
+2002 = bukan kabisat
+2004 = kabisat
+2018 = bukan kabisat
+2020 = kabisat
+
+Ciri tahun kabisat
+angka tahu tersebut habis di bagi 4 dan 100 maka tahun tersebut bukan tahun kabisat.
+kecualu jika tahun tersebut juga habis di bagi 400
+
+algoritmanya
+jika angka tahun itu habis di bagi 4 maka:
+  Jika angka tahun habis dibagi 100, maka
+    jika angka tahun habis dibagi 400, maka
+      kabisat
+    selain itu
+      bukan kabisat
+  selain itu
+    kabisat
+selain itu maka 
+  bukan kabisat
